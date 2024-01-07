@@ -1,5 +1,5 @@
 # vaiten
 ## 로동자들
-- 강*우
+- @kangsiwoo
 - @dev-alphagot
 - @iridan3939
